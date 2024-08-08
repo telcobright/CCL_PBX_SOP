@@ -1,7 +1,7 @@
 *************
 Quick Install
 *************
-.. image:: ../_static/images/logo_right.png
+.. image:: ../_static/imagesccllogo.png
         :scale: 85%
 
 |
