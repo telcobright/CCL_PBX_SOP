@@ -101,13 +101,13 @@ Most of the core folks who develop and use cclpbx can be found hanging out in IR
 .. _and lots more...: features/features.html
 .. _cclpbx Features: features/features.html
 
-Getting Started
-=====================
+.. Getting Started
+.. =====================
 
-.. toctree::
-   :maxdepth: 4
+.. .. toctree::
+..    :maxdepth: 4
    
-   getting_started.rst
+..    getting_started.rst
 
 Home
 =====
