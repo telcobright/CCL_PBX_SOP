@@ -1,34 +1,31 @@
 
 .. image:: _static/images/ccllogo.png
-        :width: 130pt
         :align: center
-        :height: 76.5pt
-
 |
 
 
 Welcome to cclpbx Docs
 =========================
 
-**cclpbx**
+**CCL PBX**
 ---------------
 
-An open source project that provides a customizable and
-flexible web interface to the very powerful and highly scalable
-multi-platform voice switch called `FreeSWITCH`_.
+.. An open source project that provides a customizable and
+.. flexible web interface to the very powerful and highly scalable
+.. multi-platform voice switch called `FreeSWITCH`_.
 
-cclpbx will run on a variety of operating systems (Optimized for Debian 8+) and
-hardware of your choice. cclpbx provides a GUI for QR Code soft phone provisioning, unlimited
-extensions, voicemail-to-email, music on hold, call parking, analog
-lines or high density T1/E1 circuits, and many other features. cclpbx
-provides the functionality that business need and provides corporate
-level phone system features to small, medium and large businesses. `Click here for the cclpbx youtube channel`_ .
+.. cclpbx will run on a variety of operating systems (Optimized for Debian 8+) and
+.. hardware of your choice. cclpbx provides a GUI for QR Code soft phone provisioning, unlimited
+.. extensions, voicemail-to-email, music on hold, call parking, analog
+.. lines or high density T1/E1 circuits, and many other features. cclpbx
+.. provides the functionality that business need and provides corporate
+.. level phone system features to small, medium and large businesses. `Click here for the cclpbx youtube channel`_ .
 
-.. raw:: html
+.. .. raw:: html
 
-    <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" height="350" src="https://www.youtube.com/embed/XpiVyHqLaus?rel=0" frameborder="0" ; encrypted-media" allowfullscreen></iframe>
-    </div>
+..     <div style="text-align: center; margin-bottom: 2em;">
+..     <iframe width="100%" height="350" src="https://www.youtube.com/embed/XpiVyHqLaus?rel=0" frameborder="0" ; encrypted-media" allowfullscreen></iframe>
+..     </div>
 
 
 Benefits of cclpbx
@@ -158,52 +155,52 @@ Advanced
 
    advanced.rst
 
-Hardware
-=============
+.. Hardware
+.. =============
 
-.. toctree::
-   :maxdepth: 4
+.. .. toctree::
+..    :maxdepth: 4
 
-   hardware.rst
+..    hardware.rst
 
-Software
-===========
+.. Software
+.. ===========
 
-.. toctree::
-   :maxdepth: 4
+.. .. toctree::
+..    :maxdepth: 4
    
-   software.rst
+..    software.rst
 
-Additional Information
-=======================
+.. Additional Information
+.. =======================
 
-.. toctree::
-   :maxdepth: 4
+.. .. toctree::
+..    :maxdepth: 4
 
-   additional_information.rst
+..    additional_information.rst
 
-Contributing
-=============
+.. Contributing
+.. =============
 
-.. toctree::
-   :maxdepth: 4
+.. .. toctree::
+..    :maxdepth: 4
 
-   contributing.rst
+..    contributing.rst
 
-Documentation Guide
-====================
+.. Documentation Guide
+.. ====================
 
-.. toctree::
-   :maxdepth: 4
+.. .. toctree::
+..    :maxdepth: 4
 
-   doc_guide.rst
+..    doc_guide.rst
 
-Other
-=======
+.. Other
+.. =======
 
-.. toctree::
-   :maxdepth: 4
+.. .. toctree::
+..    :maxdepth: 4
 
-   other.rst
+..    other.rst
 
 
