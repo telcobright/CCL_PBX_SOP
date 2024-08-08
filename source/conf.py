@@ -101,7 +101,7 @@ def pygments_monkeypatch_style(mod_name, cls):
 
 # General information about the project.
 project = u'cclpbx Docs'
-copyright = u'2008-2022, Mark J Crane'
+# copyright = u'2008-2022, Mark J Crane'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
