@@ -1,5 +1,5 @@
 
-.. image:: _static/images/logo.png
+.. image:: _static/images/ccllogo.png
         :width: 130pt
         :align: center
         :height: 76.5pt

@@ -3,7 +3,7 @@ Testimonials
 ############
 
 
-.. image:: ../_static/images/logo.png
+.. image:: ../_static/imagesccllogo.png
         :width: 130pt
         :align: center
         :height: 76.5pt

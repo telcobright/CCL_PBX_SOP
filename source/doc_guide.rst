@@ -520,7 +520,7 @@ Include Images
 
 Use::
 
-    .. image:: _static/images/logo.png
+    .. image:: _static/imagesccllogo.png
         :width: 200px
         :align: center
         :height: 100px
@@ -528,7 +528,7 @@ Use::
 
 to put an image
 
-.. image:: _static/images/logo.png
+.. image:: _static/imagesccllogo.png
     :width: 200px
     :align: center
     :height: 100px
@@ -539,7 +539,7 @@ Include a Figure
 
 ::
 
-    .. figure:: _static/images/logo.png
+    .. figure:: _static/imagesccllogo.png
         :width: 200px
         :align: center
         :height: 100px
@@ -557,7 +557,7 @@ Include a Figure
 
 gives
 
-.. figure:: _static/images/logo.png
+.. figure:: _static/imagesccllogo.png
     :width: 200px
     :align: center
     :height: 100px
@@ -783,7 +783,7 @@ More about aliases
 
 Directives can be used within aliases::
 
-    .. |logo| image:: _static/images/logo.png
+    .. |logo| image:: _static/imagesccllogo.png
         :width: 20pt
         :height: 20pt
 
@@ -872,7 +872,7 @@ contents directives
 .. Here below are coded the different aliases, reference, citation
 .. There do not appear like so in the text but can be use for references
 
-.. |logo| image:: _static/images/logo.png
+.. |logo| image:: _static/imagesccllogo.png
     :width: 20pt
     :height: 20pt
     :align: middle
